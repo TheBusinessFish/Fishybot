@@ -1,0 +1,2 @@
+# Fishybot
+My portfolio bot
